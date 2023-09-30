@@ -43,7 +43,7 @@ To get a local copy up and running, follow these steps:
 
      ```python main.py```
 
-  - Navigate to the analytics directory to open the exploratory_analysis.ipynb file 
+  - Navigate to the analytics directory to open the ```exploratory_analysis.ipynb``` file 
 
 
 2. Running in a Docker Container
