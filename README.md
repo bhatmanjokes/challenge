@@ -62,7 +62,7 @@ To get a local copy up and running, follow these steps:
 
   - Run a Docker container from the image
 
-  ```docker run -p 8888:8888```
+  ```docker run -p 8888:8888 latest```
 
   - To access the server, open the link in terminal 
 
