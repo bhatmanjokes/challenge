@@ -27,43 +27,44 @@ To get a local copy up and running, follow these steps:
 
    ```git clone https://github.com/bhatmanjokes/challenge```
 
-   - Navigate to the project directory
+  - Navigate to the project directory
 
-   ```cd project-directory```
+     ```cd project-directory```
 
-- Create a virtual environment and install dependencies using Pipenv
+  - Create a virtual environment and install dependencies using Pipenv
 
-   ```pipenv install```
+     ```pipenv install```
 
-- Activate the virtual environment
+  - Activate the virtual environment
 
-   ```pipenv shell```
+     ```pipenv shell```
 
-- Run the project locally
+  - Run the project locally
 
-   ```python main.py```
+     ```python main.py```
 
-- Navigate to the analytics directory to open the ipynb file 
+  - Navigate to the analytics directory to open the exploratory_analysis.ipynb file 
+
 
 2. Running in a Docker Container
 
-- Clone the repository to your local machine
+  - Clone the repository to your local machine
 
   ```git clone https://github.com/bhatmanjokes/challenge```
 
-- Navigate to the project directory
+  - Navigate to the project directory
 
-   ``` cd project-directory```
+  ``` cd project-directory```
 
-- Build a Docker image from the project directory
+  - Build a Docker image from the project directory
 
-   ```docker build -t latest .```
+  ```docker build -t latest .```
 
-- Run a Docker container from the image
+  - Run a Docker container from the image
 
-```docker run -p 8888:8888```
+  ```docker run -p 8888:8888```
 
-- To access the server, open the link in terminal 
+  - To access the server, open the link in terminal 
 
 
 
